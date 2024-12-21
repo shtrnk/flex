@@ -11,12 +11,12 @@ body {
 
 .wrapper {
   padding: 50px 0;
-  background: url("img/house.jpg") 50% / cover scroll;
+  background: url("img/house.webp") 50% / cover scroll;
 }
 
 .container {
   max-width: 1200px;
-  background: url("img/palma.jpg") 50% / cover no-repeat fixed;
+  background: url("img/palma.webp") 50% / cover no-repeat fixed;
   color: #fff;
   text-align: center;
   margin: 0 auto;
@@ -38,7 +38,7 @@ body {
 .photo {
   max-width: 600px;
   height: 400px;
-  background: url("img/photo1.jpg") 50% / cover no-repeat;
+  background: url("img/photo1.webp") 50% / cover no-repeat;
   border: 10px solid #fff;
   margin: 0 auto;
 }
@@ -54,7 +54,7 @@ body {
 .mountain__photo {
   width: 390px;
   height: 300px;
-  background: url("img/mountain.jpg") 50% / cover no-repeat;
+  background: url("img/mountain.webp") 50% / cover no-repeat;
   border: 5px solid #fff;
   margin: 0 0px 0 0;
 }
@@ -80,42 +80,42 @@ body {
 .look__photo__1 {
   width: 350px;
   height: 250px;
-  background: url("img/building1.jpg") 50% / cover no-repeat;
+  background: url("img/building1.webp") 50% / cover no-repeat;
   margin: 10px;
   border: 5px solid #fff;
 }
 .look__photo__2 {
   width: 350px;
   height: 250px;
-  background: url("img/building2.jpg") 50% / cover no-repeat;
+  background: url("img/building2.webp") 50% / cover no-repeat;
   margin: 10px;
   border: 5px solid #fff;
 }
 .look__photo__3 {
   width: 350px;
   height: 250px;
-  background: url("img//building3.jpg") 50% / cover no-repeat;
+  background: url("img//building3.webp") 50% / cover no-repeat;
   margin: 10px;
   border: 5px solid #fff;
 }
 .look__photo__4 {
   width: 350px;
   height: 250px;
-  background: url("img//building4.jpg") 50% / cover no-repeat;
+  background: url("img//building4.webp") 50% / cover no-repeat;
   margin: 10px;
   border: 5px solid #fff;
 }
 .look__photo__5 {
   width: 350px;
   height: 250px;
-  background: url("img//building5.jpg") 50% / cover no-repeat;
+  background: url("img//building5.webp") 50% / cover no-repeat;
   margin: 10px;
   border: 5px solid #fff;
 }
 .look__photo__6 {
   width: 350px;
   height: 250px;
-  background: url("img//building6.jpg") 50% / cover no-repeat;
+  background: url("img//building6.webp") 50% / cover no-repeat;
   margin: 10px;
   border: 5px solid #fff;
 }
